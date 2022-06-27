@@ -1,0 +1,1 @@
+export const baseUrl = 'https://netease-cloud-music-api-master-silk.vercel.app';
